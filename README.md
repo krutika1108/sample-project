@@ -1,2 +1,2 @@
 # sample-project
-sample for Git And Github.
+sample for Git And Github..
